@@ -4,7 +4,7 @@
 
 /**
 *main - prints whether the number stored in the variable n
-*return: 0 (success)
+*Return: 0 (success)
 *is positive, zero or negative
 */
 
