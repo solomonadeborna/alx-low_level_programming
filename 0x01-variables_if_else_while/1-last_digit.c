@@ -16,20 +16,20 @@ n = rand() - RAND_MAX / 2;
 LD = n % 10;
 if (LD > 5)
 {
-printf("%d last digit of \n", n);
-printf("%d is \n", LD);
+printf("last digit of %d \n", n);
+printf("is %d \n", LD);
 printf("and is greater than 5\n");
 }
 else if (LD == 0)
 {
-printf("%d last digit of \n", n);
-printf("%d is \n", LD);
+printf("last digit of %d \n", n);
+printf("is %d \n", LD);
 printf("and is 0 \n");
 }
 else if (LD < 6)
 {
-printf("%d last digit of \n", n);
-printf("%d is \n", LD);
+printf("last digit of %d \n", n);
+printf("is %d\n", LD);
 printf("and is less than 6 and not 0 \n");
 }
 
