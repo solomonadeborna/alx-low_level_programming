@@ -19,7 +19,7 @@ putchar(c);
 
 }
 
-for (C = 'a'; C <= 'z'; C++)
+for (C = 'A'; C <= 'Z'; C++)
 {
 
 putchar(C);
