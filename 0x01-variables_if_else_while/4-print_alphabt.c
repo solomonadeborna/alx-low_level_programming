@@ -13,7 +13,7 @@ char c;
 
 for (c = 'a'; c <= 'z'; c++)
 {
-while (getchar (c) != 'q' && getchar (c) != 'e')
+while (c != 'q' && c != 'e')
 putchar(c);
 
 }
