@@ -31,7 +31,7 @@ _putchar(d + '0');
 else
 {
 
-if (c != 0)
+if (b != 0)
 {
 _putchar(44);
 _putchar(32);
