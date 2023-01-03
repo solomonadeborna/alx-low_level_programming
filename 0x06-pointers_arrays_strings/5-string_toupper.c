@@ -14,5 +14,5 @@ s[i] -= 32;
 i++;
 }
 }
-return (c);
+return (s);
 }
