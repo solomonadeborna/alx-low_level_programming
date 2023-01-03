@@ -2,7 +2,7 @@
 
 /**
 *puts2 - Prints one char out of two of a string.
-*@s: The string 
+*@s: The string
 *Return: nothing
 */
 void puts2(char *s)
