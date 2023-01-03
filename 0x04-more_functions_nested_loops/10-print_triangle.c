@@ -24,7 +24,7 @@ for (j = size - i; j > 1; j--)
 {
 _putchar(32);
 }
-for (k = 0; i <= i; i++)
+for (k = 0; k <= i; k++)
 {
 _putchar(35);
 }
