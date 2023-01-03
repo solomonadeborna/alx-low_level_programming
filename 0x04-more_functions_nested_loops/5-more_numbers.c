@@ -12,7 +12,7 @@ int x;
 int i = 0;
 do {
 
-for (x = 0; x <= 9; x++)
+for (x = 0; x <= 14; x++)
 {
 _putchar(x);
 }
